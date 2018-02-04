@@ -1,4 +1,4 @@
-# Atom HTML-TO-LESS Package v1.2.0
+# Atom HTML-TO-LESS Package v1.2.1
 
 By Clicking and pasting, generate less template from html which you select.
 
