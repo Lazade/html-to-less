@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "html-to-less",
+        "command": "html-to-less:generate"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "html-to-less",
+          "submenu": [
+            {
+              "label": "Generate",
+              "command": "html-to-less:generate"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
