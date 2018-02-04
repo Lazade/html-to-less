@@ -1,7 +1,7 @@
 {
   "name": "html-to-less",
   "main": "./lib/html-to-less",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "Generate less template from html which you select.",
   "keywords": [],
   "activationCommands": {
