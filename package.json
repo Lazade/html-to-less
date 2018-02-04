@@ -1,10 +1,9 @@
 {
   "name": "html-to-less",
   "main": "./lib/html-to-less",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Generate less template from html which you select.",
-  "keywords": [
-  ],
+  "keywords": [],
   "activationCommands": {
     "atom-workspace": "html-to-less:generate"
   },
@@ -15,6 +14,6 @@
   },
   "dependencies": {
     "htmlparser2": "^3.9.2",
-    "md5.js" : "1.3.4"
+    "md5.js": "1.3.4"
   }
 }
